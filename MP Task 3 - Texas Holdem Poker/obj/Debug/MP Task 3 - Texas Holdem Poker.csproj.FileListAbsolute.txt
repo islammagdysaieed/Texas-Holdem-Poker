@@ -1,0 +1,65 @@
+F:\Study\SC\Mathematical Programming\Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\bin\Debug\MP Task 3 - Texas Holdem Poker.exe.config
+F:\Study\SC\Mathematical Programming\Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP Task 3 - Texas Holdem Poker.exe
+F:\Study\SC\Mathematical Programming\Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP Task 3 - Texas Holdem Poker.pdb
+F:\Study\SC\Mathematical Programming\Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\bin\Debug\MP Task 3 - Texas Holdem Poker.exe
+F:\Study\SC\Mathematical Programming\Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\bin\Debug\MP Task 3 - Texas Holdem Poker.pdb
+F:\Study\SC\Mathematical Programming\Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\bin\Debug\MoreLinq.dll
+F:\Study\SC\Mathematical Programming\Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\bin\Debug\MoreLinq.xml
+F:\Study\SC\Mathematical Programming\Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP Task 3 - Texas Holdem Poker.csprojResolveAssemblyReference.cache
+F:\Study\SC\Mathematical Programming\Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP_Task_3___Texas_Holdem_Poker.Properties.Resources.resources
+F:\Study\SC\Mathematical Programming\Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP Task 3 - Texas Holdem Poker.csproj.GenerateResource.Cache
+F:\Study\SC\Mathematical Programming\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\bin\Debug\MP Task 3 - Texas Holdem Poker.exe.config
+F:\Study\SC\Mathematical Programming\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\bin\Debug\MP Task 3 - Texas Holdem Poker.exe
+F:\Study\SC\Mathematical Programming\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\bin\Debug\MP Task 3 - Texas Holdem Poker.pdb
+F:\Study\SC\Mathematical Programming\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\bin\Debug\MoreLinq.dll
+F:\Study\SC\Mathematical Programming\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\bin\Debug\MoreLinq.xml
+F:\Study\SC\Mathematical Programming\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP_Task_3___Texas_Holdem_Poker.Properties.Resources.resources
+F:\Study\SC\Mathematical Programming\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP Task 3 - Texas Holdem Poker.csproj.GenerateResource.Cache
+F:\Study\SC\Mathematical Programming\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP Task 3 - Texas Holdem Poker.exe
+F:\Study\SC\Mathematical Programming\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP Task 3 - Texas Holdem Poker.pdb
+C:\Users\Sanjo Emad\Documents\Visual Studio 2013\Projects\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\bin\Debug\MP Task 3 - Texas Holdem Poker.exe.config
+C:\Users\Sanjo Emad\Documents\Visual Studio 2013\Projects\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\bin\Debug\MP Task 3 - Texas Holdem Poker.exe
+C:\Users\Sanjo Emad\Documents\Visual Studio 2013\Projects\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\bin\Debug\MP Task 3 - Texas Holdem Poker.pdb
+C:\Users\Sanjo Emad\Documents\Visual Studio 2013\Projects\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\bin\Debug\MoreLinq.dll
+C:\Users\Sanjo Emad\Documents\Visual Studio 2013\Projects\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\bin\Debug\MoreLinq.xml
+C:\Users\Sanjo Emad\Documents\Visual Studio 2013\Projects\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP Task 3 - Texas Holdem Poker.csprojResolveAssemblyReference.cache
+C:\Users\Sanjo Emad\Documents\Visual Studio 2013\Projects\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP_Task_3___Texas_Holdem_Poker.Properties.Resources.resources
+C:\Users\Sanjo Emad\Documents\Visual Studio 2013\Projects\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP Task 3 - Texas Holdem Poker.csproj.GenerateResource.Cache
+C:\Users\Sanjo Emad\Documents\Visual Studio 2013\Projects\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP Task 3 - Texas Holdem Poker.exe
+C:\Users\Sanjo Emad\Documents\Visual Studio 2013\Projects\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP Task 3 - Texas Holdem Poker.pdb
+D:\Academy\SC\Current Year\First Term\Mathematical Programming\project\MP-Task-3-Texas-Holdem-Poker\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP_Task_3___Texas_Holdem_Poker.Form1.resources
+D:\Academy\SC\Current Year\First Term\Mathematical Programming\project\MP-Task-3-Texas-Holdem-Poker\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP_Task_3___Texas_Holdem_Poker.Properties.Resources.resources
+D:\Academy\SC\Current Year\First Term\Mathematical Programming\project\MP-Task-3-Texas-Holdem-Poker\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP Task 3 - Texas Holdem Poker.csproj.GenerateResource.Cache
+D:\Academy\SC\Current Year\First Term\Mathematical Programming\project\MP-Task-3-Texas-Holdem-Poker\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\bin\Debug\MP Task 3 - Texas Holdem Poker.exe.config
+D:\Academy\SC\Current Year\First Term\Mathematical Programming\project\MP-Task-3-Texas-Holdem-Poker\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\bin\Debug\MP Task 3 - Texas Holdem Poker.exe
+D:\Academy\SC\Current Year\First Term\Mathematical Programming\project\MP-Task-3-Texas-Holdem-Poker\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\bin\Debug\MP Task 3 - Texas Holdem Poker.pdb
+D:\Academy\SC\Current Year\First Term\Mathematical Programming\project\MP-Task-3-Texas-Holdem-Poker\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\bin\Debug\MoreLinq.dll
+D:\Academy\SC\Current Year\First Term\Mathematical Programming\project\MP-Task-3-Texas-Holdem-Poker\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\bin\Debug\MoreLinq.xml
+D:\Academy\SC\Current Year\First Term\Mathematical Programming\project\MP-Task-3-Texas-Holdem-Poker\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP Task 3 - Texas Holdem Poker.exe
+D:\Academy\SC\Current Year\First Term\Mathematical Programming\project\MP-Task-3-Texas-Holdem-Poker\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP Task 3 - Texas Holdem Poker.pdb
+D:\Academy\SC\Current Year\First Term\Mathematical Programming\project\MP-Task-3-Texas-Holdem-Poker\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP_Task_3___Texas_Holdem_Poker.InputDecisionForm.resources
+D:\Academy\SC\Current Year\First Term\Mathematical Programming\project\MP-Task-3-Texas-Holdem-Poker\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP Task 3 - Texas Holdem Poker.csprojResolveAssemblyReference.cache
+C:\Users\Sanjo Emad\Desktop\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\bin\Debug\MP Task 3 - Texas Holdem Poker.exe.config
+C:\Users\Sanjo Emad\Desktop\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP Task 3 - Texas Holdem Poker.exe
+C:\Users\Sanjo Emad\Desktop\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP Task 3 - Texas Holdem Poker.pdb
+C:\Users\Sanjo Emad\Desktop\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\bin\Debug\MP Task 3 - Texas Holdem Poker.exe
+C:\Users\Sanjo Emad\Desktop\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\bin\Debug\MP Task 3 - Texas Holdem Poker.pdb
+C:\Users\Sanjo Emad\Desktop\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\bin\Debug\MoreLinq.dll
+C:\Users\Sanjo Emad\Desktop\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\bin\Debug\MoreLinq.xml
+C:\Users\Sanjo Emad\Desktop\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP Task 3 - Texas Holdem Poker.csprojResolveAssemblyReference.cache
+C:\Users\Sanjo Emad\Desktop\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP_Task_3___Texas_Holdem_Poker.Form1.resources
+C:\Users\Sanjo Emad\Desktop\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP_Task_3___Texas_Holdem_Poker.InputDecisionForm.resources
+C:\Users\Sanjo Emad\Desktop\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP_Task_3___Texas_Holdem_Poker.Properties.Resources.resources
+C:\Users\Sanjo Emad\Desktop\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP Task 3 - Texas Holdem Poker.csproj.GenerateResource.Cache
+D:\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\bin\Debug\MP Task 3 - Texas Holdem Poker.exe.config
+D:\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP Task 3 - Texas Holdem Poker.exe
+D:\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP Task 3 - Texas Holdem Poker.pdb
+D:\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\bin\Debug\MP Task 3 - Texas Holdem Poker.exe
+D:\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\bin\Debug\MP Task 3 - Texas Holdem Poker.pdb
+D:\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\bin\Debug\MoreLinq.dll
+D:\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\bin\Debug\MoreLinq.xml
+D:\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP Task 3 - Texas Holdem Poker.csprojResolveAssemblyReference.cache
+D:\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP_Task_3___Texas_Holdem_Poker.Form1.resources
+D:\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP_Task_3___Texas_Holdem_Poker.InputDecisionForm.resources
+D:\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP_Task_3___Texas_Holdem_Poker.Properties.Resources.resources
+D:\MP Task 3 - Texas Holdem Poker\MP Task 3 - Texas Holdem Poker\obj\Debug\MP Task 3 - Texas Holdem Poker.csproj.GenerateResource.Cache

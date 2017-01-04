@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MP_Task_3___Texas_Holdem_Poker.Dealer">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAQAAICAAAAAACBIAAAAAAA=</HashCode>
+      <FileName>Dealer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MP_Task_3___Texas_Holdem_Poker.Flush">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAACAAA=</HashCode>
+      <FileName>Flush.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MP_Task_3___Texas_Holdem_Poker.Form1" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>9BAAgAhAASCgghAiByCjAAFiAAAZRQxAJFJCEAIIEwk=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MP_Task_3___Texas_Holdem_Poker.FourOfaKind">
+    <Position X="2.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAACAAA=</HashCode>
+      <FileName>FourOfaKind.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MP_Task_3___Texas_Holdem_Poker.FullHouse">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAACAAA=</HashCode>
+      <FileName>FullHouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MP_Task_3___Texas_Holdem_Poker.Helper">
+    <Position X="18.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAIAQAACAABAIAAkBA=</HashCode>
+      <FileName>Helper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MP_Task_3___Texas_Holdem_Poker.InputDecisionForm" Collapsed="true">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgASCEAAGAAABAAhQKAAAACAABIAADAAEAAAAFAAAA=</HashCode>
+      <FileName>InputDecisionForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MP_Task_3___Texas_Holdem_Poker.Pair">
+    <Position X="5.75" Y="5.75" Width="1.5" />
+    <InheritanceLine Type="MP_Task_3___Texas_Holdem_Poker.PokerHand" FixedFromPoint="true">
+      <Path>
+        <Point X="6.5" Y="5.324" />
+        <Point X="6.5" Y="5.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAQAAAAACAAA=</HashCode>
+      <FileName>Pair.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MP_Task_3___Texas_Holdem_Poker.Player">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AACCRSAAAAAZCAAogAAQgAIkQQAAAAghAAgAQIEACEY=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MP_Task_3___Texas_Holdem_Poker.Poker">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABIBCAAAEwAAAAACEQEAAAQABABAAAECAAAAAAA=</HashCode>
+      <FileName>Poker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MP_Task_3___Texas_Holdem_Poker.PokerHand">
+    <Position X="5.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAFBAAIAAAgAAAAQASAAgAAIBCAAAAAAAQgAgACCAAA=</HashCode>
+      <FileName>PokerHand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MP_Task_3___Texas_Holdem_Poker.Program" Collapsed="true">
+    <Position X="14.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MP_Task_3___Texas_Holdem_Poker.RoyalFlush">
+    <Position X="11" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAACAAA=</HashCode>
+      <FileName>RoyalFlush.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MP_Task_3___Texas_Holdem_Poker.Straight">
+    <Position X="8.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAACAAE=</HashCode>
+      <FileName>Straight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MP_Task_3___Texas_Holdem_Poker.StraightFlush">
+    <Position X="8.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAACAAA=</HashCode>
+      <FileName>StraightFlush.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MP_Task_3___Texas_Holdem_Poker.ThreeOfaKind">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAACAAA=</HashCode>
+      <FileName>ThreeOfaKind.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MP_Task_3___Texas_Holdem_Poker.Properties.Resources" Collapsed="true">
+    <Position X="14.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MP_Task_3___Texas_Holdem_Poker.Properties.Settings" Collapsed="true">
+    <Position X="16.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="MP_Task_3___Texas_Holdem_Poker.Card">
+    <Position X="14.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Helper.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MP_Task_3___Texas_Holdem_Poker.PlayerType">
+    <Position X="13" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MP_Task_3___Texas_Holdem_Poker.HandAndFactor">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MP_Task_3___Texas_Holdem_Poker.Decision">
+    <Position X="16.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="MP_Task_3___Texas_Holdem_Poker.AI_Level">
+    <Position X="13" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkAAA=</HashCode>
+      <FileName>Helper.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MP_Task_3___Texas_Holdem_Poker.cardType">
+    <Position X="18.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAEAAAAAAAAABAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Helper.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MP_Task_3___Texas_Holdem_Poker.cardValue">
+    <Position X="16.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAggAAAEAAEAIAAAAAFBAAAAAgAAAgAAEE=</HashCode>
+      <FileName>Helper.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MP_Task_3___Texas_Holdem_Poker.Hand">
+    <Position X="14.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAABAAAAAgEAAAAAAAAAQAAAAAAAAAAAAGAAAAAIAgA=</HashCode>
+      <FileName>Helper.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MP_Task_3___Texas_Holdem_Poker.status">
+    <Position X="18.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAgAAAAAAIAAAAAAAAAAAAAgAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Helper.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
